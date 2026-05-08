@@ -1,6 +1,6 @@
-# Brain Tumor MRI Classification
+# Deep Learning-Based Brain Tumor MRI Classification
 
-This project uses deep learning to classify brain MRI images into tumor categories. It compares a baseline CNN model with a ResNet50 transfer learning model.
+This project focuses on multiclass brain tumor classification using MRI images. The dataset includes four categories: glioma, meningioma, pituitary tumor, and no-tumor. The main purpose of the project is to evaluate whether a transfer learning approach can improve classification performance compared with a CNN model trained from scratch.
 
 ## Project Contents
 
@@ -50,4 +50,4 @@ scikit-learn
 
 ## Authors
 
-Yutian He, Caroline Jiang, and YiAn Xu
+Yutian (Claire) He, Jiayi (Caroline) Jiang, and YiAn Xu
